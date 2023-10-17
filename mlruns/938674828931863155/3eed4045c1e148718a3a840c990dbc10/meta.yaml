@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/jupyter-notebook/mlruns/938674828931863155/3eed4045c1e148718a3a840c990dbc10/artifacts
+end_time: 1697516494322
+entry_point_name: ''
+experiment_id: '938674828931863155'
+lifecycle_stage: active
+run_id: 3eed4045c1e148718a3a840c990dbc10
+run_name: luxuriant-cat-129
+run_uuid: 3eed4045c1e148718a3a840c990dbc10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697516494117
+status: 3
+tags: []
+user_id: codespace

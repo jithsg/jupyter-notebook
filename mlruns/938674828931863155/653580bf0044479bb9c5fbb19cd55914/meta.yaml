@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/jupyter-notebook/mlruns/938674828931863155/653580bf0044479bb9c5fbb19cd55914/artifacts
+end_time: 1697516445702
+entry_point_name: ''
+experiment_id: '938674828931863155'
+lifecycle_stage: active
+run_id: 653580bf0044479bb9c5fbb19cd55914
+run_name: learned-goat-234
+run_uuid: 653580bf0044479bb9c5fbb19cd55914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697516445546
+status: 3
+tags: []
+user_id: codespace

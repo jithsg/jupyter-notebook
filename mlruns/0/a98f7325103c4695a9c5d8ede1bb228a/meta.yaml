@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a98f7325103c4695a9c5d8ede1bb228a/artifacts
+end_time: 1697516017884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a98f7325103c4695a9c5d8ede1bb228a
+run_name: funny-foal-799
+run_uuid: a98f7325103c4695a9c5d8ede1bb228a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697516017689
+status: 3
+tags: []
+user_id: codespace

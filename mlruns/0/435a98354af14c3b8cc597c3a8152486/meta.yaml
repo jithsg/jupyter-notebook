@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/435a98354af14c3b8cc597c3a8152486/artifacts
+end_time: 1697514412246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 435a98354af14c3b8cc597c3a8152486
+run_name: salty-stoat-489
+run_uuid: 435a98354af14c3b8cc597c3a8152486
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697514412228
+status: 4
+tags: []
+user_id: codespace

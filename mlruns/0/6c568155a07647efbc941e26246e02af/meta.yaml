@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6c568155a07647efbc941e26246e02af/artifacts
+end_time: 1697515953228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c568155a07647efbc941e26246e02af
+run_name: invincible-fly-199
+run_uuid: 6c568155a07647efbc941e26246e02af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697515952989
+status: 3
+tags: []
+user_id: codespace

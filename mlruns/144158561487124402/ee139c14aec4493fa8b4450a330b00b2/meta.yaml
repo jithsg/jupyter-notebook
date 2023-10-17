@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/jupyter-notebook/mlruns/144158561487124402/ee139c14aec4493fa8b4450a330b00b2/artifacts
+end_time: 1697515483458
+entry_point_name: ''
+experiment_id: '144158561487124402'
+lifecycle_stage: active
+run_id: ee139c14aec4493fa8b4450a330b00b2
+run_name: bold-goose-612
+run_uuid: ee139c14aec4493fa8b4450a330b00b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697515483274
+status: 3
+tags: []
+user_id: codespace

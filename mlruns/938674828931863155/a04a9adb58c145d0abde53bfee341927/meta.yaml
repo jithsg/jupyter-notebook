@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/jupyter-notebook/mlruns/938674828931863155/a04a9adb58c145d0abde53bfee341927/artifacts
+end_time: 1697516634085
+entry_point_name: ''
+experiment_id: '938674828931863155'
+lifecycle_stage: active
+run_id: a04a9adb58c145d0abde53bfee341927
+run_name: magnificent-kite-845
+run_uuid: a04a9adb58c145d0abde53bfee341927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697516633859
+status: 3
+tags: []
+user_id: codespace
